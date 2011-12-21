@@ -1244,8 +1244,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = (
-					armv7,
 					armv6,
+					armv7,
 				);
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CONTENTS_FOLDER_PATH = "$(WRAPPER_NAME)/Versions/$(FRAMEWORK_VERSION)";
@@ -1264,6 +1264,7 @@
 				MACH_O_TYPE = mh_object;
 				PRODUCT_NAME = BlocksKit;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				UNLOCALIZED_RESOURCES_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Resources";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -1429,8 +1430,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = (
-					armv7,
 					armv6,
+					armv7,
 				);
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CONTENTS_FOLDER_PATH = "$(WRAPPER_NAME)/Versions/$(FRAMEWORK_VERSION)";
@@ -1449,6 +1450,7 @@
 				MACH_O_TYPE = mh_object;
 				PRODUCT_NAME = BlocksKit;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				UNLOCALIZED_RESOURCES_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Resources";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -1609,8 +1611,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = (
-					armv7,
 					armv6,
+					armv7,
 				);
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CONTENTS_FOLDER_PATH = "$(WRAPPER_NAME)/Versions/$(FRAMEWORK_VERSION)";
@@ -1629,6 +1631,7 @@
 				MACH_O_TYPE = mh_object;
 				PRODUCT_NAME = BlocksKit;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				UNLOCALIZED_RESOURCES_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Resources";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -1789,8 +1792,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = (
-					armv7,
 					armv6,
+					armv7,
 				);
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CONTENTS_FOLDER_PATH = "$(WRAPPER_NAME)/Versions/$(FRAMEWORK_VERSION)";
@@ -1809,6 +1812,7 @@
 				MACH_O_TYPE = mh_object;
 				PRODUCT_NAME = BlocksKit;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				UNLOCALIZED_RESOURCES_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Resources";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -2147,8 +2151,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = (
-					armv7,
 					armv6,
+					armv7,
 				);
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CONTENTS_FOLDER_PATH = "$(WRAPPER_NAME)/Versions/$(FRAMEWORK_VERSION)";
@@ -2167,6 +2171,7 @@
 				MACH_O_TYPE = mh_object;
 				PRODUCT_NAME = BlocksKit;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				UNLOCALIZED_RESOURCES_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Resources";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -2176,8 +2181,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = (
-					armv7,
 					armv6,
+					armv7,
 				);
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CONTENTS_FOLDER_PATH = "$(WRAPPER_NAME)/Versions/$(FRAMEWORK_VERSION)";
@@ -2196,6 +2201,7 @@
 				MACH_O_TYPE = mh_object;
 				PRODUCT_NAME = BlocksKit;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				UNLOCALIZED_RESOURCES_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Resources";
 				WRAPPER_EXTENSION = framework;
 			};
